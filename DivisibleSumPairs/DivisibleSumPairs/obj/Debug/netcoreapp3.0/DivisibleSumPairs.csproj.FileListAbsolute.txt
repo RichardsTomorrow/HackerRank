@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\netcoreapp3.0\DivisibleSumPairs.exe
+C:\Users\richa\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\netcoreapp3.0\DivisibleSumPairs.deps.json
+C:\Users\richa\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\netcoreapp3.0\DivisibleSumPairs.runtimeconfig.json
+C:\Users\richa\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\netcoreapp3.0\DivisibleSumPairs.runtimeconfig.dev.json
+C:\Users\richa\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\netcoreapp3.0\DivisibleSumPairs.dll
+C:\Users\richa\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\netcoreapp3.0\DivisibleSumPairs.pdb
+C:\Users\richa\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\netcoreapp3.0\DivisibleSumPairs.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\netcoreapp3.0\DivisibleSumPairs.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\netcoreapp3.0\DivisibleSumPairs.AssemblyInfo.cs
+C:\Users\richa\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\netcoreapp3.0\DivisibleSumPairs.dll
+C:\Users\richa\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\netcoreapp3.0\DivisibleSumPairs.pdb

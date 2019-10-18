@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\HackerRank\ApplesAndOranges\ApplesAndOranges\bin\Debug\netcoreapp3.0\ApplesAndOranges.exe
+C:\Users\richa\source\repos\HackerRank\ApplesAndOranges\ApplesAndOranges\bin\Debug\netcoreapp3.0\ApplesAndOranges.deps.json
+C:\Users\richa\source\repos\HackerRank\ApplesAndOranges\ApplesAndOranges\bin\Debug\netcoreapp3.0\ApplesAndOranges.runtimeconfig.json
+C:\Users\richa\source\repos\HackerRank\ApplesAndOranges\ApplesAndOranges\bin\Debug\netcoreapp3.0\ApplesAndOranges.runtimeconfig.dev.json
+C:\Users\richa\source\repos\HackerRank\ApplesAndOranges\ApplesAndOranges\bin\Debug\netcoreapp3.0\ApplesAndOranges.dll
+C:\Users\richa\source\repos\HackerRank\ApplesAndOranges\ApplesAndOranges\bin\Debug\netcoreapp3.0\ApplesAndOranges.pdb
+C:\Users\richa\source\repos\HackerRank\ApplesAndOranges\ApplesAndOranges\obj\Debug\netcoreapp3.0\ApplesAndOranges.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\HackerRank\ApplesAndOranges\ApplesAndOranges\obj\Debug\netcoreapp3.0\ApplesAndOranges.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\HackerRank\ApplesAndOranges\ApplesAndOranges\obj\Debug\netcoreapp3.0\ApplesAndOranges.AssemblyInfo.cs
+C:\Users\richa\source\repos\HackerRank\ApplesAndOranges\ApplesAndOranges\obj\Debug\netcoreapp3.0\ApplesAndOranges.dll
+C:\Users\richa\source\repos\HackerRank\ApplesAndOranges\ApplesAndOranges\obj\Debug\netcoreapp3.0\ApplesAndOranges.pdb

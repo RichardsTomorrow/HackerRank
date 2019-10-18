@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\HackerRank\JumpingOnTheClouds\JumpingOnTheClouds\obj\Debug\netcoreapp3.0\JumpingOnTheClouds.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\HackerRank\JumpingOnTheClouds\JumpingOnTheClouds\obj\Debug\netcoreapp3.0\JumpingOnTheClouds.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\HackerRank\JumpingOnTheClouds\JumpingOnTheClouds\obj\Debug\netcoreapp3.0\JumpingOnTheClouds.AssemblyInfo.cs
+C:\Users\richa\source\repos\HackerRank\JumpingOnTheClouds\JumpingOnTheClouds\bin\Debug\netcoreapp3.0\JumpingOnTheClouds.exe
+C:\Users\richa\source\repos\HackerRank\JumpingOnTheClouds\JumpingOnTheClouds\bin\Debug\netcoreapp3.0\JumpingOnTheClouds.deps.json
+C:\Users\richa\source\repos\HackerRank\JumpingOnTheClouds\JumpingOnTheClouds\bin\Debug\netcoreapp3.0\JumpingOnTheClouds.runtimeconfig.json
+C:\Users\richa\source\repos\HackerRank\JumpingOnTheClouds\JumpingOnTheClouds\bin\Debug\netcoreapp3.0\JumpingOnTheClouds.runtimeconfig.dev.json
+C:\Users\richa\source\repos\HackerRank\JumpingOnTheClouds\JumpingOnTheClouds\bin\Debug\netcoreapp3.0\JumpingOnTheClouds.dll
+C:\Users\richa\source\repos\HackerRank\JumpingOnTheClouds\JumpingOnTheClouds\bin\Debug\netcoreapp3.0\JumpingOnTheClouds.pdb
+C:\Users\richa\source\repos\HackerRank\JumpingOnTheClouds\JumpingOnTheClouds\obj\Debug\netcoreapp3.0\JumpingOnTheClouds.dll
+C:\Users\richa\source\repos\HackerRank\JumpingOnTheClouds\JumpingOnTheClouds\obj\Debug\netcoreapp3.0\JumpingOnTheClouds.pdb

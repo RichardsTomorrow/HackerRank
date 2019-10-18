@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\richa\\source\\repos\\HackerRank\\BirthdayCakeCandles\\BirthdayCakeCandles\\BirthdayCakeCandles.csproj",
+      "projectUniqueName": "C:\\Users\\richa\\source\\repos\\HackerRank\\HackerRank\\BirthdayCakeCandles\\BirthdayCakeCandles.csproj",
       "projectName": "BirthdayCakeCandles",
-      "projectPath": "C:\\Users\\richa\\source\\repos\\HackerRank\\BirthdayCakeCandles\\BirthdayCakeCandles\\BirthdayCakeCandles.csproj",
+      "projectPath": "C:\\Users\\richa\\source\\repos\\HackerRank\\HackerRank\\BirthdayCakeCandles\\BirthdayCakeCandles.csproj",
       "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\richa\\source\\repos\\HackerRank\\BirthdayCakeCandles\\BirthdayCakeCandles\\obj\\",
+      "outputPath": "C:\\Users\\richa\\source\\repos\\HackerRank\\HackerRank\\BirthdayCakeCandles\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

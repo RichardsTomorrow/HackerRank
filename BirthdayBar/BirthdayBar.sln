@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayBar", "BirthdayBar\BirthdayBar.csproj", "{3844D373-2B08-4F47-BBF2-8D0AC043C781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3844D373-2B08-4F47-BBF2-8D0AC043C781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3844D373-2B08-4F47-BBF2-8D0AC043C781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3844D373-2B08-4F47-BBF2-8D0AC043C781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3844D373-2B08-4F47-BBF2-8D0AC043C781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1781023F-39A4-4B82-B893-8830FF1D14FB}
+	EndGlobalSection
+EndGlobal

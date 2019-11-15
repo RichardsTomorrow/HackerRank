@@ -1,0 +1,8 @@
+.btnsContainer {
+    width: 75%;
+}
+.btnsContainer > .btnclass {
+    width: 30%;
+    height: 48px;
+    font-size: 24px;
+}
